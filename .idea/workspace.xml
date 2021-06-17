@@ -38,6 +38,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608098547393</updated>
     </task>
+    <task id="LOCAL-00001" summary="new files are added for hosting">
+      <created>1623920837525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623920837525</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -52,6 +60,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new files are added for hosting" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files are added for hosting" />
   </component>
   <component name="WindowStateProjectService">
     <state x="444" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623918373627">
