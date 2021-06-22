@@ -2,173 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638bc379-e30e-43d1-bdea-c7900538e358" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.idea/Food-Ordering-System-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/food/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/food_delivery" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/foodapp/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/foodapp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/foodapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodapp/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/foodapp/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/kfc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/media/kfc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/kfc_358Rvr8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/media/kfc_358Rvr8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/table.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/media/table.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/table2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/media/table2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/veg-starter1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/food/media/veg-starter1.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/veg-starter1_eokw493.webp" beforeDir="false" afterPath="$PROJECT_DIR$/food/media/veg-starter1_eokw493.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/food/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/0103-served-plate_128.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/0103-served-plate_128.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/0103-served-plate_64.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/0103-served-plate_64.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/0203-coffee-love.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/0203-coffee-love.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/0301-pina-colada.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/0301-pina-colada.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/0301-pina-colada_64.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/0301-pina-colada_64.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/0302-steak.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/0302-steak.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/0401-vegan.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/0401-vegan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/0402-chef.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/0402-chef.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/5p.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/5p.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/6p.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/6p.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/8p.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/8p.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/Scooter logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/Scooter logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/bag.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/bag.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/barbecue.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/barbecue.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/biriyani11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/biriyani11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/burger11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/burger11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/close_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/close_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/cross.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/cross.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/cuisine1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/cuisine1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/cuisine2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/cuisine2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/cuisine3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/cuisine3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/cuisine4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/cuisine4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/cuisine5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/cuisine5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/cuisine6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/cuisine6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/cuisine7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/cuisine7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/cuisine8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/cuisine8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/dotted-line-right-wide.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/dotted-line-right-wide.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/dotted-line-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/dotted-line-right.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/dotted-line.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/dotted-line.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/frais.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/frais.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/gril.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/gril.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/grilled11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/grilled11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/homeimage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/homeimage.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/homeimage2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/homeimage2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/icon1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/icon1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/icon2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/icon2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/icon3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/icon3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/img-sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/img-sprite.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/kfc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/kfc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/lava.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/lava.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/line.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/line.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/logo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/logo1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/lunch.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/lunch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/mcdowels.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/mcdowels.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/order-section-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/order-section-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/order.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/order.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/p1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/p2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/p2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/p3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/p3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/paneer11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/paneer11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/pizza11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/pizza11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/pizzahut.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/pizzahut.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/res_img_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/res_img_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/res_img_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/res_img_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/res_img_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/res_img_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/res_img_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/res_img_4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/res_img_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/res_img_5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/res_img_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/res_img_6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/res_img_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/res_img_7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/res_img_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/res_img_8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-logo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-logo1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-logo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-logo2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-logo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-logo3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-logo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-logo4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-logo5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-logo5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/restaurent-logo6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/restaurent-logo6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/service-banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/service-banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/slide_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/slide_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/slide_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/slide_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/slide_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/slide_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/star1.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/star1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/star2.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/star2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/subway.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/subway.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/tick1.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/tick1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/to-top2.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/to-top2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/type-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/type-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/type-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/type-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/type-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/type-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/type-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/type-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/images/wood_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/images/wood_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/classie.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/classie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/easing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/jquery.carouFredSel-6.1.0-packed.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/jquery.carouFredSel-6.1.0-packed.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/jquery.easydropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/jquery.easydropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/jquery.flexisel.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/jquery.flexisel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/move-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/move-top.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/simpleCart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/simpleCart.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/tms-0.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/tms-0.4.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/uisearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/uisearch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staticfiles/static/webapp/js/wow.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/static/webapp/js/wow.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/migrations/0002_auto_20201216_1141.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/migrations/0002_auto_20201216_1141.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/base2.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/base2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/form_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/form_template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/menu_modify.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/menu_modify.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/order-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/order-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/orderplaced.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/orderplaced.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/profile_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/profile_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/rest_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/rest_profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/rest_profile_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/rest_profile_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/restaurents.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/restaurents.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/restlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/restlogin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/restsignup.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/restsignup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/templates/webapp/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/food/templates/webapp/signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/webapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food/foodapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/food/foodapp/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,13 +28,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Shreyas\PycharmProjects\Food-Ordering-System-master\staticfiles" />
-      <recent name="C:\Users\Shreyas\PycharmProjects\Food-Ordering-System-master" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Shreyas\PycharmProjects\Food-Ordering-System-master" />
       <recent name="C:\Users\Shreyas\PycharmProjects\Food-Ordering-System-master\webapp\static\webapp\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shreyas\PycharmProjects\Food-Ordering-System-master\staticfiles" />
+      <recent name="C:\Users\Shreyas\PycharmProjects\Food-Ordering-System-master" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -416,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624303742027</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="new files added for hosting">
+      <created>1624336577035</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1624336577035</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,10 +286,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="444" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1623918373627" />
-    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1624303741396">
+    <state x="8" y="0" key="CommitChangelistDialog2" timestamp="1624336575689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624303741396" />
+    <state x="8" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624336575689" />
     <state x="498" y="108" key="FileChooserDialogImpl" timestamp="1624333808485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -456,10 +298,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="94" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1623300258129" />
-    <state x="260" y="64" key="Vcs.Push.Dialog.v2" timestamp="1624303744275">
+    <state x="260" y="64" key="Vcs.Push.Dialog.v2" timestamp="1624336581613">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="260" y="64" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624303744275" />
+    <state x="260" y="64" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624336581613" />
     <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1624333784582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
